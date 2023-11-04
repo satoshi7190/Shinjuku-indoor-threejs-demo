@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "ShinjukuTerminal_B3_Opening",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::6677" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "6359b61774eb4abfb111b2c4bb455df0", "floor_id": "3c18fe6287fc48e78733c112e384993b", "name": "小滝橋通り方面改札", "source": "2" }, "geometry": { "type": "LineString", "coordinates": [ [ -12152.45253764743029, -33963.476895701045578 ], [ -12145.446246604993576, -33961.474651880074816 ] ] } },
+{ "type": "Feature", "properties": { "id": "241abb334bc84dccb82ad5eae8254670", "floor_id": "f419ea9bac8646fdbc3fda17086c2d3b", "name": "ＪＲ新宿駅方面改札", "source": "2" }, "geometry": { "type": "LineString", "coordinates": [ [ -12142.710939688675353, -34044.115266207831155 ], [ -12132.30803762206051, -34042.588027761921694 ] ] } }
+]
+}
