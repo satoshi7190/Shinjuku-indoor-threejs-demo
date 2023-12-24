@@ -1,8 +1,0 @@
-{
-"type": "FeatureCollection",
-"name": "ShinjukuTerminal_4out_Facility",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::6677" } },
-"features": [
-{ "type": "Feature", "properties": { "id": "08e73799c4a142ef8bc44739172d327b", "category": "F016", "floor_id": "6097dc940957462a87b579e85d30204c", "name": "バスタ新宿", "source": "1" }, "geometry": { "type": "Point", "coordinates": [ -11983.248744027527209, -34549.356301675223222 ] } }
-]
-}

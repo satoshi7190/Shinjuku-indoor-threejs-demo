@@ -1,9 +1,0 @@
-{
-"type": "FeatureCollection",
-"name": "ShinjukuTerminal_3_Opening",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::6677" } },
-"features": [
-{ "type": "Feature", "properties": { "id": "b154996072f74ace877fbea68ec5374d", "floor_id": "31eb8e4714e24dd488791abad42b5d1a", "name": "バスタ新宿", "source": "2" }, "geometry": { "type": "LineString", "coordinates": [ [ -12000.642677874879155, -34585.053065748972585 ], [ -11993.848625153690591, -34583.663171282947587 ] ] } },
-{ "type": "Feature", "properties": { "id": "9d0c94b1dc224b43ba3752b68f3ad10e", "floor_id": "31eb8e4714e24dd488791abad42b5d1a", "name": "バスタ新宿", "source": "2" }, "geometry": { "type": "LineString", "coordinates": [ [ -11992.770858149944615, -34583.441176803586131 ], [ -11985.971708743556519, -34582.051742650670349 ] ] } }
-]
-}
